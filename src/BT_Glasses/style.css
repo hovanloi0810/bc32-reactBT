@@ -1,0 +1,10 @@
+.position-glasses {
+  display: inline-block;
+  top: 20%;
+  left: 50%;
+  transform: translateX(-8%);
+}
+
+.position-glasses img {
+  width: 15%;
+}
